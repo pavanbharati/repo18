@@ -1,6 +1,6 @@
 node('built-in') 
 {
-    stage('Continuous Download_master') 
+    stage('Continuou's Download_master') 
 	{
     git 'https://github.com/sunildevops77/maven.git'
 	}
